@@ -1,0 +1,15 @@
+D:\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+D:\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+D:\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+D:\AutoClicker\AutoClicker\bin\Debug\Guna.UI2.dll
+D:\AutoClicker\AutoClicker\bin\Debug\SipaaFramework.dll
+D:\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.AssemblyReference.cache
+D:\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+D:\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+D:\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+D:\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+D:\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.CopyComplete
+D:\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+D:\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
+D:\AutoClicker\AutoClicker\bin\Debug\Siticone.Desktop.UI.dll
+D:\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Nav.resources
